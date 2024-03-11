@@ -10,11 +10,12 @@ Welcome to the definitive learning guide focused on Linux Commands and Shell Scr
 
 ## Week 1: Getting Started with Linux
 
-- **Day 1:** Introduction to Linux and Unix - Understanding the ecosystem.
-- **Day 2:** Linux Distributions - Overview and selection guide.
-- **Day 3:** Linux Architecture - Kernel, shell, and filesystem insights.
-- **Day 4:** Navigating the Linux Terminal - Basic command-line operations.
-- **Day 5:** Text Files Creation and Editing - Using `vi`, `vim`, `nano`.
+- **Day 1:** Intro. to Unix: An Overview
+- **Day 2:** Introduction to Linux and Unix - Understanding the ecosystem.
+- **Day 3:** Linux Distributions - Overview and selection guide.
+- **Day 4:** Linux Architecture - Kernel, shell, and filesystem insights.
+- **Day 5:** Navigating the Linux Terminal - Basic command-line operations.
+- **Day 6:** Text Files Creation and Editing - Using `vi`, `vim`, `nano`.
 
 ## Week 2: Command Mastery
 
