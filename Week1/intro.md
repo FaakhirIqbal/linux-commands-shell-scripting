@@ -13,7 +13,11 @@ Unix is an Operating System developed in the 1970s at AT&T Laboratories by Ken T
 
 
 Unix has three levels: **user**, **kernel**, and **hardware**.
+
 System calls and libraries interface between user programs and the kernel.
+
 File subsystem manages files, allocates space, controls access, and retrieves data.
+
 Processes interact with the file subsystem through specific system calls like open, close, read, write, etc.
+
 Device drivers control peripheral devices, handle interrupts, and communicate with hardware.
