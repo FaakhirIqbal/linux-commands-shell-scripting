@@ -2,6 +2,7 @@
 
 Welcome to the definitive learning guide focused on Linux Commands and Shell Scripting for aspiring DevOps and Data Science professionals. This structured program is designed to guide you through the essentials of Linux, ensuring you gain practical knowledge and hands-on experience with the commands and scripting techniques critical for your career advancement.
 
+
 ## Objectives
 
 - Understand the Linux operating system, its file structure, and basic commands.
@@ -16,6 +17,7 @@ Welcome to the definitive learning guide focused on Linux Commands and Shell Scr
 - **Day 4:** Linux Architecture - Kernel, shell, and filesystem insights.
 - **Day 5:** Navigating the Linux Terminal - Basic command-line operations.
 - **Day 6:** Text Files Creation and Editing - Using `vi`, `vim`, `nano`.
+
 
 ## Week 2: Command Mastery
 
@@ -48,6 +50,5 @@ Contributions are welcome! If you have suggestions or improvements, please feel 
 ## License
 
 This material is made available under the MIT License. For more details, see the LICENSE file in the repository.
-
 
 
