@@ -21,3 +21,4 @@ File subsystem manages files, allocates space, controls access, and retrieves da
 Processes interact with the file subsystem through specific system calls like open, close, read, write, etc.
 
 Device drivers control peripheral devices, handle interrupts, and communicate with hardware.
+
