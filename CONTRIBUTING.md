@@ -43,4 +43,4 @@ If you have questions or suggestions about contributing, please open an issue in
 
 By contributing to this repository, you agree that your contributions will be licensed under the same license as the repository.
 
-Thank you for contributing to the Linux Commands for DevOps and Data Science!
+Thank you for contributing to the Linux Commands for DevOps and Data Science! 
