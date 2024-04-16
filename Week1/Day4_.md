@@ -19,3 +19,4 @@ For example, to transfer example.txt from your local directory to a remote serve
 ```
 scp /home/user/Documents/example.txt user@123.456.789.0:/home/user/remote_directory/
 ```
+
