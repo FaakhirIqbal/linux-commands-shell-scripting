@@ -22,3 +22,6 @@ Processes interact with the file subsystem through specific system calls like op
 
 Device drivers control peripheral devices, handle interrupts, and communicate with hardware.
 
+
+
+
