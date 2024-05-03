@@ -26,5 +26,5 @@ Despite variations, the FHS has significantly improved the organization and pred
 
 ## Conclusion
 
-The Filesystem Hierarchy Standard has played a crucial role in shaping the Linux file system into a more organized and manageable structure. While adherence to the FHS varies among distributions, its influence is undeniable, contributing to the widespread adoption and success of Linux in diverse environments. 
+The Filesystem Hierarchy Standard has played a crucial role in shaping the Linux file system into a more organized and manageable structure. While adherence to the FHS varies among distributions, its influence is undeniable, contributing to the widespread adoption and success of Linux in diverse environments.    
 
