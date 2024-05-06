@@ -26,6 +26,7 @@ Welcome to the definitive learning guide focused on Linux Commands and Shell Scr
 - **Day 3:** File and Directory Operations - Advanced management techniques.
 - **Day 4:** Text Processing - `grep`, `awk`, `sed`, and more.
 - **Day 5:** Networking Basics - `ping`, `ssh`, `scp`.
+- **Day 6:** 
 
 ## Week 3: Advanced Shell Scripting
 
