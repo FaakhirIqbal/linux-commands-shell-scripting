@@ -16,6 +16,7 @@ The primary goal of the FHS is to facilitate software compatibility, ease system
 - `/var`: Variable data like logs and databases
 - `/usr`: Secondary hierarchy for read-only user data
 
+
 ## Compliance and Variations
 
 While the FHS serves as a guideline, not all Linux distributions strictly adhere to it. Some distributions introduce unique elements or modifications to cater to specific needs or preferences. This flexibility allows distributions to innovate and tailor their offerings, but it can also lead to inconsistencies across the Linux ecosystem.
@@ -27,4 +28,5 @@ Despite variations, the FHS has significantly improved the organization and pred
 ## Conclusion
 
 The Filesystem Hierarchy Standard has played a crucial role in shaping the Linux file system into a more organized and manageable structure. While adherence to the FHS varies among distributions, its influence is undeniable, contributing to the widespread adoption and success of Linux in diverse environments.    
+
 
